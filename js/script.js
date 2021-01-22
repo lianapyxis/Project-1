@@ -10,25 +10,6 @@ window.onload = function menuF() {
         }
     }
 
-    /*
-
-    var num = 0;
-    var imagestwo = [
-        "img/slider_1/146600.jpg",
-        "img/slider_1/Tenet_wallpaper.jpg",
-        "img/slider_1/1606152214_woman.jpg"
-    ];
-    function next() {
-    var slider = document.getElementById("slider");
-    num++;
-    if(num >= imagestwo.length) {
-        num = 0;
-    }
-    slider.src = imagestwo[num];
-    };
-    setInterval(() => next(), 5000);
-
-    */
     
     jQuery(function ($) {
         "use strict";
